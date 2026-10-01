@@ -1,0 +1,30 @@
+{
+  "personal": {
+    "fullName": "Evid Wijaya",
+    "title": "Graphic Designer",
+    "company": "Star Champs Indonesia",
+    "tagline": "Crafting digital experiences",
+    "about": "Write a brief introduction about yourself, your expertise, and what drives you professionally.",
+    "phone": "0856-7822-903",
+    "email": "evidwijaya@gmail.com",
+    "website": "",
+    "address": "Tangerang, Banten"
+  },
+  "media": {
+    "photoUrl": "",
+    "logoUrl": ""
+  },
+  "social": {
+    "whatsapp": "",
+    "instagram": "",
+    "linkedin": "",
+    "email": ""
+  },
+  "portfolio": [],
+  "services": [],
+  "settings": {
+    "resendApiKey": "",
+    "accentColor": "#0071E3",
+    "cardTheme": "obsidian"
+  }
+}
